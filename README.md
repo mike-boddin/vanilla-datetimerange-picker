@@ -1,5 +1,16 @@
 # vanilla-datetimerange-picker
 
+This is a fork of [alumuko/vanilla-datetimerange-picker](https://github.com/alumuko/vanilla-datetimerange-picker)
+
+## Changes that will be made
+
+1. encapsulate all usges of momentjs in library calls
+2. implement a momentjs-free library for these calls
+
+---
+
+original description:
+
 ## Overview.
 A JavaScript component that is a date &amp; time range picker, no need to build, no dependencies except Moment.js, that is inspired by [Dan Grossman's bootstrap-daterangepicker](https://github.com/dangrossman/daterangepicker).
 
